@@ -4,7 +4,7 @@ public class Test {
         
         System.out.println("Hai, ini baris kode pertama");
         System.out.println("Hai, aku Firman");
-        System.out.println("Hai, ini baris kode ketiga");
+        System.out.println("Hai, ini baris kode kedua");
 
     }
 
